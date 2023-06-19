@@ -1,0 +1,41 @@
+.container1{
+    width: 400px;
+    height:310px;
+    top: 20%;
+    left:10%;
+    background-color: transparent;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    border-radius: 30px;
+    box-shadow: 0px 0px 0px 5px rgba(15, 15, 13, 0.19);
+  }
+  
+  .container1 {
+    max-width: 380px;
+    padding: 3%;
+    margin-top: 5%;
+    position: absolute;
+    background-color: transparent;
+  }
+  .container1 p{
+    color: #fff;
+  }
+  .container1 h1{
+    color: chocolate;
+  }
+  .btn{
+    background-color:chocolate;
+    color: rgb(10, 10, 10);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+    border-radius: 30px;
+  }
+  .btn:hover {
+    opacity: 1;
+    color: rgb(249, 150, 44);
+  }

@@ -1,0 +1,79 @@
+
+.image {
+    width: 60%;
+    height: 100%;
+    position: absolute;
+    right: 5%;
+  }
+  .container1{
+    width:330px;
+    height:490px;
+    
+    top: 20%;
+    left:10%;
+    /* background-color:transparent; */
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    border-radius: 30px;
+    box-shadow: 0px 0px 19px 5px rgba(0,0,0,0.19);
+    
+    padding: 3%;
+    background-color:#e5dcd6;
+  }
+  .avatar{
+    width: 190px;
+    height: 190px;
+    border-radius: 50%;
+    position: absolute;
+    top: -17%;
+    left: calc(40% - 50px);
+  }
+  .h1{
+    margin: 10%;
+    padding: 20%;
+    text-align: center;
+    font-size: 22px;
+    color: rgb(0, 0, 0);
+    align-items: center;
+  }
+  
+  
+    .container1 input[type=text], input[type=password] {
+    width: 100%;
+    margin: 5px 0 22px 0;
+    border: none;
+    background: transparent;
+    border-radius: 10px;
+    text-align: left;
+    box-shadow:0px 0px 0px 5px rgba(154, 154, 149, 0.19);
+    background-color:#fff;
+  }
+  .container1 input[type=text]:focus, input[type=password]:focus {
+    background-color:#fff;
+    outline: none;
+  }
+
+  .container1 input[type=text]:hover, input[type=password]:hover{
+    color: #0e0f0f;
+        border: 2px solid #0c0d0d;
+  } 
+  .container1 p{
+    padding: 8%;
+  }
+  .btn {
+    background-color: #F7AC40;
+    color: rgb(10, 10, 10);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+    border-radius: 30px;
+  }
+  .btn:hover {
+    opacity: 1;
+    background-color: #efeff0;
+    border: #0e0f0f;
+  }

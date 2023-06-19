@@ -1,0 +1,13 @@
+.card{
+    margin-top: 5%;
+    border: solid 0.5%;
+    width: 80%;
+    height: 50%;
+    padding-left: 5%;
+    margin-left: 10%;
+    padding-right: 5%;
+}
+.tec{
+    max-width: 40%;
+    margin-left: 28%;
+}

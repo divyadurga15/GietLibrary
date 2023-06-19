@@ -1,0 +1,21 @@
+.con{
+    padding-left: 1%cd ;
+}
+
+nav a{
+    color:rgb(10, 10, 10);
+    font-family: bold;
+    font-style:normal;
+    
+}
+nav a:hover{
+    background-color: rgb(241, 148, 78);
+    border-radius: 15px;
+}
+nav a ul{
+    color:rgb(9, 9, 9);
+
+}
+.collapse a{
+    font-size: 20px;
+}

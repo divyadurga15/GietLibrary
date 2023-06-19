@@ -1,0 +1,27 @@
+.con{
+    padding-left: 30% ;
+    font-size: 200%;
+}
+
+nav a{
+    color:rgb(14, 11, 11);
+    font-family: bold;
+    
+}
+nav a ul{
+    color:rgb(244, 241, 241);
+    font-size: 50px;
+}
+nav ul li a{
+    font-size: 20px;
+    justify-content: space-between;
+}*/
+/* .nav .container-fluid .collapse ul li a{
+    font-size: 2rem;
+} */
+
+ul li{
+    font-size: 1.5rem;
+    color: black;
+}
+
